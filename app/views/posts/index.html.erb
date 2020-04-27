@@ -2,12 +2,12 @@
 
 <section class="section">
   <div class="container"> 
-    <% @post.each do |p| %>
+    <% @posts.each do |post| %>
       <div class="card"> 
 	    <div class="card-content">
 		  <div classd="media">
 		    <div class="media-conetent">
-			  <p class="title is-4"> <%= p.title %> </p>
+			  <p class="title is-4"> <%= post.title %> </p>
 			</div>
 		  </div>
 		</div>
