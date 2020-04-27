@@ -14,8 +14,12 @@ class PostsController < ApplicationController
         else
             ender new
         end
-        
+
     end
+
+    def show 
+        @post = Post.find(params[:id])
+    end 
 
     private 
 
