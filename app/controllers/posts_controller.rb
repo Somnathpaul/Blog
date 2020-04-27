@@ -1,5 +1,6 @@
 class PostsController < ApplicationController
     def Index
+        @post = Post.all
     end
 
     def new
@@ -12,7 +13,7 @@ class PostsController < ApplicationController
         if @post.save
             redirect_to @post
         else
-            ender new
+            render new
         end
 
     end
