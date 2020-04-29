@@ -13,7 +13,7 @@ class PostsController < ApplicationController
         if @post.save
             redirect_to @post
         else
-            render new
+            render 'new'
         end
 
     end
@@ -21,6 +21,20 @@ class PostsController < ApplicationController
     def show 
         @post = Post.find(params[:id])
     end 
+
+    def update
+        @post = Post.find(params[:id])
+        # if the post is updated, redirect to specific page or else show edit page
+        if @post.update(post_params)
+			redirect_to @post
+		else
+			render 'edit'
+		end
+    end
+
+    def edit
+        @post = Post.find(params[:id])
+    end
 
     private 
 
