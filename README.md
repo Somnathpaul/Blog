@@ -18,16 +18,16 @@ Stack used: Ruby On Rail & Bulma
 
 ### Screenshots
 - Home page
-![N|Solid](https://i.ibb.co/p2r0gqM/Screenshot-2020-05-31-at-5-42-26-PM.png)
+![N|Solid](https://camo.githubusercontent.com/d1c4da2746129d16276ee9253ebee4e20f19cb7b/68747470733a2f2f692e6962622e636f2f7032723067714d2f53637265656e73686f742d323032302d30352d33312d61742d352d34322d32362d504d2e706e67)
 
 - Particular article 
-![N|Solid](https://i.ibb.co/cNbP5zB/Screenshot-2020-05-31-at-5-43-08-PM.png)
+![N|Solid](https://camo.githubusercontent.com/f5c25895908eeb1798e6b9f60d56d6a99dd0a81d/68747470733a2f2f692e6962622e636f2f634e6250357a422f53637265656e73686f742d323032302d30352d33312d61742d352d34332d30382d504d2e706e67)
 
 - comment section
-![N|Solid](https://i.ibb.co/j8FDLF1/Screenshot-2020-05-31-at-5-43-44-PM.png)
+![N|Solid](https://camo.githubusercontent.com/aa80b502a4797ebc7b4be1828f971169048794d5/68747470733a2f2f692e6962622e636f2f6a3846444c46312f53637265656e73686f742d323032302d30352d33312d61742d352d34332d34342d504d2e706e67)
 
 - Create new article
-![N|Solid](https://i.ibb.co/b3GTW75/Screenshot-2020-05-31-at-5-43-53-PM.png)
+![N|Solid](https://camo.githubusercontent.com/830a3e27243e3a0001427d555f313c3e941bd7cf/68747470733a2f2f692e6962622e636f2f623347545737352f53637265656e73686f742d323032302d30352d33312d61742d352d34332d35332d504d2e706e67)
 
 
 
